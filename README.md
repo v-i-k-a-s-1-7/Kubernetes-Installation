@@ -16,9 +16,9 @@ cd Kubernetes-Installation
 ```
 
 2. **Make the Script Executable**:
-   ```
-   chmod +x install_kubernetes.sh
-   ```
+```
+chmod +x install_kubernetes.sh
+```
 3. **Run the script:**
 ```
 sudo ./install_kubernetes.sh
